@@ -91,23 +91,23 @@ The application implements secure user authentication using Next.js authenticati
 
 ### SignIn Page
 
-![signIn Logo](./PHOTO/signIn.jpg)
+![signIn Logo](./signIn.jpg)
 
 ### Home Page
 
-![home Logo](./PHOTO/home.jpg)
+![home Logo](./home.jpg)
 
 ### Profile Page
 
-![Profile Logo](./PHOTO/Profile.jpg)
+![Profile Logo](./Profile.jpg)
 
 ### Chat Page
 
-![chat Logo](./PHOTO/chat.png)
+![chat Logo](./chat.png)
 
 ### Footer Page
 
-![Footer Logo](./PHOTO/Footer.png)
+![Footer Logo](./Footer.png)
 
 ## Contribution Guidelines
 
